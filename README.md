@@ -1,5 +1,5 @@
 # Original Movies vs Sequels: Who wins?
-## The data, notebooks, and process notes for project one
+## The data, notebooks, and process notes for project two
 ## What I aimed to accomplish:
 I first started this project with a completely different ending in mind. I had scrapped movie ratings from [Rotten Tomatoes](https://www.rottentomatoes.com/) and I used an API to get ratings from [The Movie Database](https://www.themoviedb.org/). I was planning to compare the ratings of the movies across each platform. However, after I had already gotten all my data I thought of an idea! <u> why don't I see which are the highest rated franchises? what about the lowest? also, are original movies rated higher than franchises? </u> So, I decided to only use my IMDb data that I found [here](https://developer.imdb.com/non-commercial-datasets/). Specifically, I downloaded the <b> title.basics.tsv.gz </b> and <b>title.ratings.tsv.gz</b>. The data from the franchises are from [Film Site](https://www.filmsite.org/series-boxoffice.html) and a <i>loooot</i> of manual work, where I put the franchise on some movies one by one, either because the dataset from IMDb had title differences than the Franchise's one, or because the Franchises data only had specific franchises and didn't include others.
 ## My findings:
