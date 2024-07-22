@@ -1,0 +1,63 @@
+,averageRating,numVotes,Film,date,genres,Franchise,averageRating_max,is_first_highest
+0,7.2,449323,King Kong,2005-01-01,"Action,Adventure,Romance",(Monsterverse*) Godzilla and King Kong,7.2,True
+1,7.2,602349,21 Jump Street,2012-01-01,"Action,Comedy,Crime",21 Jump Street,7.2,True
+2,8.5,957958,Alien,1979-01-01,"Horror,Sci-Fi",Alien,8.5,True
+3,7.2,725807,Ant-Man,2015-01-01,"Action,Comedy,Sci-Fi",Ant-Man,7.2,True
+4,7.9,1393021,Avatar,2009-01-01,"Action,Adventure,Fantasy",Avatar,7.9,True
+5,8.0,1465596,The Avengers,2012-01-01,"Action,Sci-Fi",Avengers,8.4,False
+6,8.5,1315965,Back to the Future,1985-01-01,"Adventure,Comedy,Sci-Fi",Back to the Future,8.5,True
+7,7.5,406324,Batman,1989-01-01,"Action,Adventure",Batman,7.8,False
+8,8.1,827025,Blade Runner,1982-01-01,"Action,Drama,Sci-Fi",Blade Runner,8.1,True
+9,7.8,579198,The Bourne Identity,2002-01-01,"Action,Mystery,Thriller",Bourne,8.0,False
+10,6.9,901275,Captain America: The First Avenger,2011-01-01,"Action,Adventure,Sci-Fi",Captain America,7.8,False
+11,8.0,1134848,Deadpool,2016-01-01,"Action,Comedy",Deadpool,8.0,True
+12,7.6,587768,Despicable Me,2010-01-01,"Adventure,Animation,Comedy",Despicable Me,7.6,True
+13,8.2,950580,Die Hard,1988-01-01,"Action,Thriller",Die Hard,8.2,True
+14,7.5,810696,Doctor Strange,2016-01-01,"Action,Adventure,Fantasy",Doctor Strange,7.5,True
+15,8.0,881225,Dune,2021-01-01,"Action,Adventure,Drama",Dune,8.6,False
+16,7.3,409210,Fast Five,2011-01-01,"Action,Crime,Thriller",Fast and the Furious,7.3,True
+17,8.0,1279347,Guardians of the Galaxy,2014-01-01,"Action,Adventure,Comedy",Guardians of the Galaxy,8.0,True
+18,7.6,861279,Harry Potter and the Sorcerer's Stone,2001-01-01,"Adventure,Family,Fantasy",Harry Potter,8.1,False
+19,7.7,655983,Home Alone,1990-01-01,"Comedy,Family",Home Alone,7.7,True
+20,8.4,1041727,Raiders of the Lost Ark,1981-01-01,"Action,Adventure",Indiana Jones,8.4,True
+21,7.9,1131249,Iron Man,2008-01-01,"Action,Adventure,Sci-Fi",Iron Man,7.9,True
+22,8.0,697628,Casino Royale,2006-01-01,"Action,Adventure,Thriller",James Bond,8.0,True
+23,7.4,744217,John Wick,2014-01-01,"Action,Crime,Thriller",John Wick,7.4,True
+24,8.2,1074636,Jurassic Park,1993-01-01,"Action,Adventure,Sci-Fi",Jurassic Park,8.2,True
+25,6.1,480315,Justice League,2017-01-01,"Action,Adventure,Fantasy",Justice League,7.9,False
+26,8.2,1202553,Kill Bill: Vol. 1,2003-01-01,"Action,Crime,Thriller",Kill Bill,8.2,True
+27,7.9,780021,Knives Out,2019-01-01,"Comedy,Crime,Drama",Knives Out,7.9,True
+28,7.3,617125,Men in Black,1997-01-01,"Action,Adventure,Comedy",Men in Black,7.3,True
+29,7.2,472719,Mission: Impossible,1996-01-01,"Action,Adventure,Thriller",Mission: Impossible,7.4,False
+30,8.1,985447,"Monsters, Inc.",2001-01-01,"Adventure,Animation,Comedy","Monsters, Inc.",8.1,True
+31,8.2,572636,Monty Python and the Holy Grail,1975-01-01,"Adventure,Comedy,Fantasy",Monty Python,8.2,True
+32,7.7,623126,Ocean's Eleven,2001-01-01,"Crime,Thriller",Ocean's Eleven,7.7,True
+33,8.1,1218161,Pirates of the Caribbean: The Curse of the Black Pearl,2003-01-01,"Action,Adventure,Fantasy",Pirates of the Caribbean,8.1,True
+34,7.6,575013,Rise of the Planet of the Apes,2011-01-01,"Action,Drama,Sci-Fi",Planet of the Apes,7.6,True
+35,7.6,674335,Sherlock Holmes,2009-01-01,"Action,Adventure,Mystery",Sherlock Holmes,7.6,True
+36,7.9,739717,Shrek,2001-01-01,"Adventure,Animation,Comedy",Shrek (Original and Sequels),7.9,True
+37,6.9,706578,The Amazing Spider-Man,2012-01-01,"Action,Adventure,Sci-Fi",Spider-Man (Marc Webb),6.9,True
+38,7.4,885774,Spider-Man,2002-01-01,"Action,Adventure,Sci-Fi",Spider-Man (Sam Raimi Trilogy),7.5,False
+39,7.4,724794,Spider-Man: Homecoming,2017-01-01,"Action,Adventure,Sci-Fi",Spider-Man MCU,8.2,False
+40,7.9,621721,Star Trek,2009-01-01,"Action,Adventure,Sci-Fi",Star Trek,7.9,True
+41,8.6,1458330,Star Wars,1977-01-01,"Action,Adventure,Fantasy",Star Wars: (Original Trilogy),8.7,False
+42,6.5,864175,Star Wars: Episode I - The Phantom Menace,1999-01-01,"Action,Adventure,Fantasy",Star Wars: (Prequel Trilogy),7.6,False
+43,7.8,978106,Star Wars: Episode VII - The Force Awakens,2015-01-01,"Action,Adventure,Sci-Fi",Star Wars: (Sequel Trilogy),7.8,True
+44,5.9,724740,Suicide Squad,2016-01-01,"Action,Adventure,Fantasy",Suicide Squad,7.2,False
+45,7.1,814873,Man of Steel,2013-01-01,"Action,Adventure,Sci-Fi",Superman,7.1,True
+46,8.2,1588068,Batman Begins,2005-01-01,"Action,Crime,Drama",The Dark Knight Trilogy,9.0,False
+47,9.2,2027049,The Godfather,1972-01-01,"Crime,Drama",The Godfather,9.2,True
+48,7.7,851732,The Hangover,2009-01-01,Comedy,The Hangover,7.7,True
+49,7.8,877100,The Hobbit: An Unexpected Journey,2012-01-01,"Adventure,Fantasy",The Hobbit,7.8,True
+50,7.2,1009740,The Hunger Games,2012-01-01,"Action,Adventure,Sci-Fi",The Hunger Games,7.5,False
+51,8.9,2020423,The Lord of the Rings: The Fellowship of the Ring,2001-01-01,"Action,Adventure,Drama",The Lord of the Rings,9.0,False
+52,8.7,2067275,The Matrix,1999-01-01,"Action,Sci-Fi",The Matrix,8.7,True
+53,8.1,929872,The Terminator,1984-01-01,"Action,Adventure,Sci-Fi",The Terminator (Original),8.6,False
+54,7.0,904860,Thor,2011-01-01,"Action,Fantasy",Thor,7.9,False
+55,7.9,597317,Shaun of the Dead,2004-01-01,"Comedy,Horror",Three Flavours Cornetto,7.9,True
+56,6.9,506788,Top Gun,1986-01-01,"Action,Drama",Top Gun,8.2,False
+57,8.3,1075166,Toy Story,1995-01-01,"Adventure,Animation,Comedy",Toy Story,8.3,True
+58,7.0,678402,Transformers,2007-01-01,"Action,Adventure,Sci-Fi",Transformers,7.0,True
+59,7.3,444022,Unbreakable,2000-01-01,"Drama,Mystery,Sci-Fi",Unbreakable,7.3,True
+60,7.3,649981,X-Men,2000-01-01,"Action,Adventure,Sci-Fi",X-Men (Original Series),7.9,False
+61,6.5,533578,X-Men Origins: Wolverine,2009-01-01,"Action,Sci-Fi",X-Men (Wolverine),8.1,False
