@@ -35,9 +35,9 @@ In the files I uploaded, you can also find the datasets I created for Visualizat
 - <b> sortedFranchisesRatings.csv </b> : it has the franchises columns and the average rating for each franchise,
 
 ## Where did I grow the most / What did I want to do but couldn't:
-The manual work was a little disappointing, and it took quite a long time for me to accept that this would be the way that the movies would be <b>correctly</b> assigned to the <b>correct</b> dataset. I tried the "fuzzywuzzy" library I saw online, to see If I could merge on the film column without the need to have <i>exactly</i> the same name titles. I couldn't make it work. Then, I saw there are libraries such as "jellyfish", what could be better, and tools like Open refine. 
+The manual work was a little disappointing, and it took quite a long time for me to accept that this would be the way that the movies would be <b>correctly</b> assigned to the <b>correct</b> dataset. I tried the "fuzzywuzzy" library I saw online, to see If I could merge on the film column without the need to have <i>exactly</i> the same name titles. I couldn't make it work. Then, I saw there are libraries such as "jellyfish", that could be better, and tools like Open refine. 
 
-However, it was a fun project, where I struggled a lot and dad a change to practise scraping a table with many lines in a row, merge two datasets that are different, and visualization. I definetely grew on the scraping part, and visualization.
+However, it was a fun project, where I struggled a lot and had a chance to practise scraping a table with many lines in a row, merge two datasets that are different, and visualization. I definetely grew on the scraping part, and visualization.
 
 I definitely got the chance to practise my skills, data and visualization wise. I made three vizualizations on flourish. This was also a good chance for me to use an other one of [Soma's templates](https://jsoma.github.io/page-templates/), where I used the scrolly-images one.
 
